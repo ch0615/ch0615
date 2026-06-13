@@ -11,7 +11,7 @@ multi-network switching, international connectivity, and the eSIM activation sta
 
 | Project | Impact |
 |---|---|
-| Multi-network (Teleport) | One line, all three major US carriers — switches like Wi-Fi |
+| Multi-network | One line, all three major US carriers — switches like Wi-Fi |
 | eSIM instant activation | 8% → **50%+ of 1M+ activations** |
 | Starlink One | Cellular + satellite home internet, one plan |
 
